@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BTFirebase</string>
+    <string name="login">LOGIN</string>
+    <string name="txtuserlogin">Nhập Email</string>
+    <string name="txtpwlogin">*****************</string>
+    <string name="cbremember">Remember me</string>
+    <string name="recoverpw">Forgot password?</string>
+    <string name="btnlogin">Login</string>
+    <string name="testview">Don\'t have an account?</string>
+
+    <string name="txtAcc">Create Account</string>
+    <string name="txtFullName">Full Name</string>
+    <string name="txtRetypePass">Nhâp lại password</string>
+    <string name="txtEmailSU">Email</string>
+    <string name="txtPassW">PassWord</string>
+    <string name="loginsucess">Đăng nhập thành công</string>
+    <string name="loginerror">Username hoặc Password sai !</string>
+    <string name="txtSignup">Sign Up</string>
+</resources>
